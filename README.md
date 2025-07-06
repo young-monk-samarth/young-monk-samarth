@@ -1,6 +1,6 @@
 # ⚡ Hey there! I'm Samarth Muktamath — Engineering Grad & UI Crafter.
 
-➤ **I’m currently working on:** <br>web development projects and exploring AI-powered solutions — focused on building responsive, user-friendly interfaces while learning backend technologies and integration.  <br><br>➤**I’m looking to collaborate with:**  <br>Designers and developers to create seamless digital experiences. I enjoy working in a team and bringing creative ideas to life with efficient code.  <br><br>➤ **I’m currently learning:**  <br>Web development technologies, including frontend frameworks and backend integration, alongside AI concepts like LangChain for building intelligent applications.  <br> ><br>➤ I'm a travel enthusiast fluent in English, Kannada, Hindi, and Marathi — bringing cultural awareness and communication versatility to every interaction. <br><br>**⚡ Let’s connect and create something amazing together!  🔗SAMARTH MUKTAMATH<br>**<br>  
+➤ **I’m currently working on:** <br>web development projects and exploring AI-powered solutions — focused on building responsive, user-friendly interfaces while learning backend technologies and integration.  <br><br>➤**I’m looking to collaborate with:**  <br>Designers and developers to create seamless digital experiences. I enjoy working in a team and bringing creative ideas to life with efficient code.  <br> ><br>➤ I'm a travel enthusiast fluent in English, Kannada, Hindi, and Marathi — bringing cultural awareness and communication versatility to every interaction. <br><br>**⚡ Let’s connect and create something amazing together!  🔗SAMARTH MUKTAMATH<br>**<br>  
 
 
 ## 🌐 Socials:
@@ -14,12 +14,15 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GSAP](https://img.shields.io/badge/gsap-%23000000.svg?style=for-the-badge&logo=greensock&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=young-monk-samarth&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
