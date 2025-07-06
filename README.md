@@ -1,6 +1,6 @@
 # ⚡ Hey there! I'm Samarth Muktamath — Engineering Grad & UI Crafter.
 
-➤ **I’m currently working on:** <br>web development projects and exploring AI-powered solutions — focused on building responsive, user-friendly interfaces while learning backend technologies and integration.  <br><br>➤**I’m looking to collaborate with:**  <br>Designers and developers to create seamless digital experiences. I enjoy working in a team and bringing creative ideas to life with efficient code .<br> <br>➤**Fun fact:**<br> I'm a travel enthusiast fluent in English, Kannada, Hindi, and Marathi — bringing cultural awareness and communication versatility to every interaction. <br><br>**⚡ Let’s connect and create something amazing together!  🔗SAMARTH MUKTAMATH<br>**<br>  
+➤ **I’m currently working on:** <br>web development projects and exploring AI-powered solutions — focused on building responsive, user-friendly interfaces while learning backend technologies and integration.  <br><br>➤ **I’m looking to collaborate with:**  <br>Designers and developers to create seamless digital experiences. I enjoy working in a team and bringing creative ideas to life with efficient code .<br> <br>➤ **Fun fact:**<br> I'm a travel enthusiast fluent in English, Kannada, Hindi, and Marathi — bringing cultural awareness and communication versatility to every interaction. <br><br>**⚡ Let’s connect and create something amazing together!  🔗SAMARTH MUKTAMATH<br>**<br>  
 
 
 ## 🌐 Socials:
